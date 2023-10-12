@@ -1,0 +1,18 @@
+[
+    {"id": 1, 
+    "nombre": "Brownie Clasico",
+    "precio": 100,
+    "img": "/img/brownies1.webp", 
+    "cantidad": 1 },
+    {"id": 2,
+    "nombre": "Brownie de Nuez",
+    "precio": 150,
+    "img": "/img/brownies2.webp ",
+    "cantidad": 1},
+    {"id": 3,
+    "nombre": "Brownie de Vainilla",
+    "precio": 200,
+    "img": "/img/brownies 3.jpg",
+    "cantidad": 1}
+
+]

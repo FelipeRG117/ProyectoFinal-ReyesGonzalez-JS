@@ -1,0 +1,13 @@
+[
+    {"id": 1, 
+    "nombre": "moffins de Chocolate",
+    "precio": 100,
+    "img": "/img/muffins1.webp", 
+    "cantidad": 1 },
+    {"id": 2,
+    "nombre": "Muffins de Arandonos",
+    "precio": 150,
+    "img": "/img/muffins 2.webp",
+    "cantidad": 1}
+   
+]

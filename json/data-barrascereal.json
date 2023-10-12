@@ -1,0 +1,13 @@
+[
+    {"id": 1, 
+    "nombre": "Barra de Cereal de Frutas",
+    "precio": 100,
+    "img": "/img/barracereal1.jpg", 
+    "cantidad": 1 },
+    {"id": 2,
+    "nombre": "Barra de Cereal de Chocolate",
+    "precio": 150,
+    "img": "/img/barracereal2.jpg",
+    "cantidad": 1}
+
+]

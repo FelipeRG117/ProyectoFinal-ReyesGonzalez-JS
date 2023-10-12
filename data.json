@@ -1,0 +1,35 @@
+[
+    {"id": 1, 
+    "nombre": "Brownies",
+    "precio": 100,
+    "img": "/img/1.webp", 
+    "cantidad": 1 },
+    {"id": 2,
+    "nombre": "Moffins",
+    "precio": 150,
+    "img": "/img/2.jpg ",
+    "cantidad": 1},
+    {"id": 3,
+    "nombre": "Barras de Cereal",
+    "precio": 200,
+    "img": "/img/3.jpg",
+    "cantidad": 1},
+    {"id": 4,
+    "nombre": "Donas",
+    "precio": 250,
+    "img": "/img/5.jpeg",
+    "cantidad": 1},
+    {"id": 5,
+    "nombre": "Gomitas",
+    "precio": 300,
+    "img": "/img/6.webp",
+    "cantidad": 1},
+    {"id": 6,
+    "nombre": "Semillas",
+    "precio": 300,
+    "img": "/img/7.jpg",
+    "cantidad": 1}
+
+
+
+]
